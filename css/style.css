@@ -7,14 +7,12 @@ body {
   background-color: rgb(255, 171, 88);
 }
 
-{
-  background-image: url('https: //i.pinimg.com/originals/05/47/a4/0547a43edb83308e4eda36fabaa02bc2.jpg'); 
-}
 h1 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: white;
   text-align: center;
     padding-bottom: 50px;
+    
 }
 /* This is the content of the website */
 p {
@@ -22,6 +20,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   text-align: center;
+  background-image: url('https: //i.pinimg.com/originals/05/47/a4/0547a43edb83308e4eda36fabaa02bc2.jpg'); 
   
 }
 
@@ -34,4 +33,7 @@ p {
   color: rgb(255, 233, 217);
 }
 
+/* Note to self: figure out how to add this 
+background-image: url('https: //i.pinimg.com/originals/05/47/a4/0547a43edb83308e4eda36fabaa02bc2.jpg');
+*/
 
