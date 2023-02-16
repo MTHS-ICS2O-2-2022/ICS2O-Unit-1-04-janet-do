@@ -1,4 +1,37 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Janet Do
+* Created on: February 2023 
 * This file contains the CSS for index.html
 */
+body {
+  
+  background-color: rgb(255, 171, 88);
+}
+
+{
+  background-image: url('https: //i.pinimg.com/originals/05/47/a4/0547a43edb83308e4eda36fabaa02bc2.jpg'); 
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  text-align: center;
+    padding-bottom: 50px;
+}
+/* This is the content of the website */
+p {
+  
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  
+}
+
+  
+  /*This is the border of the content */
+
+
+.dashed {
+  border-style: dashed;
+  color: rgb(255, 233, 217);
+}
+
+
