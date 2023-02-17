@@ -6,21 +6,23 @@
 body {
   background-color: #ffbe93;
 }
-/*colors of header*/
+
+/* colors of header */
+
 h1 {
-  background-color: rgb(255, 208, 165);
-  color: hsl(28, 100%, 92%);
+  background-color: #ffd0a5;
+  color: #ffe9d6;
   padding: 40px;
   text-align: center;
 }
 
-/*color of content*/
+/* color of content */
 p {
-  background-color: hsl(29, 100%, 94%);
+  background-color: #ffefe0;
 }
 
 ul {
-  color: beige;
+  color: #f5f5dc;
 }
 
 ul li::before {
@@ -33,14 +35,15 @@ table {
 
 th {
   height: 2rem;
-  background: rgb(255, 189, 127);
+  background: #ffbd7f;
   border: 1px solid white;
   text-align: left;
 }
-/*colors of table*/
+
+/* colors of table */
 td {
   height: 2rem;
-  background: rgb(255, 225, 190);
-  border: 1px solid rgb(255, 255, 255);
+  background: #ffe1be;
+  border: 1px solid #fff;
   text-align: center;
 }
